@@ -1,0 +1,9 @@
+C:\Users\korisnik\source\repos\buricmarioslanjeE-maila\buricmarioslanjeE-maila\bin\Debug\buricmarioslanjeE-maila.exe.config
+C:\Users\korisnik\source\repos\buricmarioslanjeE-maila\buricmarioslanjeE-maila\bin\Debug\buricmarioslanjeE-maila.exe
+C:\Users\korisnik\source\repos\buricmarioslanjeE-maila\buricmarioslanjeE-maila\bin\Debug\buricmarioslanjeE-maila.pdb
+C:\Users\korisnik\source\repos\buricmarioslanjeE-maila\buricmarioslanjeE-maila\obj\Debug\buricmarioslanjeE-maila.csprojAssemblyReference.cache
+C:\Users\korisnik\source\repos\buricmarioslanjeE-maila\buricmarioslanjeE-maila\obj\Debug\buricmarioslanjeE_maila.Form1.resources
+C:\Users\korisnik\source\repos\buricmarioslanjeE-maila\buricmarioslanjeE-maila\obj\Debug\buricmarioslanjeE_maila.Properties.Resources.resources
+C:\Users\korisnik\source\repos\buricmarioslanjeE-maila\buricmarioslanjeE-maila\obj\Debug\buricmarioslanjeE-maila.csproj.GenerateResource.cache
+C:\Users\korisnik\source\repos\buricmarioslanjeE-maila\buricmarioslanjeE-maila\obj\Debug\buricmarioslanjeE-maila.exe
+C:\Users\korisnik\source\repos\buricmarioslanjeE-maila\buricmarioslanjeE-maila\obj\Debug\buricmarioslanjeE-maila.pdb
